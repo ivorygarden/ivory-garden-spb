@@ -189,7 +189,11 @@ p.p_header {
 
 
 
-
+@media screen and (min-width: 767px) {
+	.info_for_mobile {
+		display: none !important;
+	}
+}
 
 
 
